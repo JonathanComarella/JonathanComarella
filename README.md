@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**JonathanComarella/JonathanComarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to my profile! 👋
+## About me <br>
+💻 I am Jonathan Comarella <br>
+📚 Systems analysis and development student <br>
+⚡️ I'm 23 years old <br>
+🌎 Erechim/RS - Brazil <br> <br>
+## Follow my journey! 📫
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonathanComarella)](https://github.com/JonathanComarella)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathancomarella/)](https://www.linkedin.com/in/jonathancomarella/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/comarellaj/)](https://www.instagram.com/comarellaj/)
