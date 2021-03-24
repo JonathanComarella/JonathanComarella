@@ -2,7 +2,6 @@
 ## About me <br>
 👉 I am Jonathan Comarella <br>
 💻 Java Developer <br>
-📚 Systems analysis and development student <br>
 ⚡️ 23 years <br>
 🌎 Erechim/RS - Brazil <br> <br>
 ## Follow my journey! 📫
