@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 ## About me <br>
 👉 I am Jonathan Comarella <br>
-💻 Java Developer <br>
+💻 Web Developer <br>
 ⚡️ 24 years <br>
 🌎 Erechim/RS - Brazil <br> <br>
 ## Follow my journey! 📫
