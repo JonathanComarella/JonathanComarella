@@ -2,7 +2,7 @@
 ## About me <br>
 👉 I am Jonathan Comarella <br>
 💻 Web Developer <br>
-⚡️ 24 years <br>
+⚡️ 25 years <br>
 🌎 Erechim/RS - Brazil <br> <br>
 ## Follow my journey! 📫
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonathanComarella)](https://github.com/JonathanComarella)
