@@ -8,3 +8,4 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonathanComarella)](https://github.com/JonathanComarella)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathancomarella/)](https://www.linkedin.com/in/jonathancomarella/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/comarellaj/)](https://www.instagram.com/comarellaj/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/@jonathanc77)](https://www.youtube.com/@jonathanc77)
